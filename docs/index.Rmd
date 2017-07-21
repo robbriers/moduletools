@@ -9,6 +9,7 @@ output:
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+***
 
 ### What is it and what does it do?
 
@@ -30,9 +31,9 @@ ModuleTools can do the following:
 
 ***
 
-### How do I install the Add-in
+### How do I install the Add-in?
 
-The Excel add-in can be downloaded from [https://github.com/robbriers/moduletools](https://github.com/robbriers/moduletools). The easiest way to access the tools is simply to open the file.  You may get a security alert when you try and open the file - you will need to Enable Macros to use the functions.  This may require you to modify your security settings depending on the setup of Excel.
+The Excel add-in (ModuleTools.xlam) can be downloaded from [https://github.com/robbriers/moduletools](https://github.com/robbriers/moduletools). The easiest way to access the tools is simply to open the file.  You may get a security alert when you try and open the file - you will need to Enable Macros to use the functions.  This may require you to modify your security settings depending on the setup of Excel.
 
 If you want ModuleTools to be available every time you open Excel, use the following steps (assuming Excel 2013 or 16):
 Click on File > Options. Click on the Add-ins section on the left of the screen, then choose Manage: Excel Add-ins from the bottom and click Go.  Click Browse, then locate the ModuleTools.xlam file and select it.  Click on OK.  Now whenever you open Excel it will be available on the Home Ribbon.
@@ -117,7 +118,7 @@ As the name suggests, this combines the above functions together into one action
 
 ***
 
-## Processing Tools
+### Processing Tools
 
 #### Convert Matrics
 When you paste matriculation numbers into Excel, they commonly lose the initial '0' leaving you one number short.  This is less of a problem than it used to be as current matric numbers start with 4, but until earlier registered students complete, this tool reformats the matriculation numbers to replace the initial zero, and converts them to text format for easier manipulation.  Simply select the range of values to be converted and click on Processing > Convert Matrics.
