@@ -3,12 +3,17 @@ title: 'ModuleTools: tools to make your life easier!'
 author: "Rob Briers, School of Applied Sciences, Edinburgh Napier University"
 date: '`r Sys.Date()`'
 output:
+  word_document: default
   html_document: default
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+```{r out.width = "20%", echo=FALSE}
+knitr::include_graphics('img/ModuleTools.png')
+```
+
 ***
 
 ### What is it and what does it do?

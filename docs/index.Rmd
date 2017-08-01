@@ -1,5 +1,5 @@
 ---
-title: 'ModuleTools: tools to make your life easier!'
+title: 'ModuleTools: tools to make your life easier! <img src="img/ModuleTools.png" width="100" align="right">'
 author: "Rob Briers, School of Applied Sciences, Edinburgh Napier University"
 date: '`r Sys.Date()`'
 output:
