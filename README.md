@@ -1,4 +1,4 @@
-# ModuleTools <img src="docs/img/ModuleTools.png" width="100" align="right">'
+# ModuleTools <img src="docs/img/ModuleTools.png" width="100" align="right">
 
 ModuleTools: an add-in for Excel to calculate module marks and other useful things.
 
